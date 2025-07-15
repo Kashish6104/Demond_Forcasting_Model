@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.2
+plotly>=5.22     # used in Spoilage page
+Prophet, 
+scikit‑learn
