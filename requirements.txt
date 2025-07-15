@@ -1,6 +1,8 @@
-streamlit
-pandas
-matplotlib
-scikit-learn
-prophet
-pillow
+streamlit==1.46.1
+pandas==2.3.1
+numpy==2.3.1
+matplotlib==3.10.3
+scikit-learn==1.7.0
+prophet==1.1.7
+pillow==11.3.0
+plotly==5.22.0
